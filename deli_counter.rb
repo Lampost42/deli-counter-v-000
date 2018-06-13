@@ -1,1 +1,5 @@
-# Write your code here.
+def line(customers)
+  if customers == []
+    return "The line is empty"
+  end
+end
