@@ -6,3 +6,7 @@ def line(customers)
     puts "The line is currently: #{customers.join.chop}"
   end
 end
+
+def take_a_number(customers, new_customer)
+  
+end
