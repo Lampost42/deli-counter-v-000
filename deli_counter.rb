@@ -8,5 +8,5 @@ def line(customers)
 end
 
 def take_a_number(customers, new_customer)
-  
+  customers.push(new_customer)
 end
